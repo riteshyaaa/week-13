@@ -40,7 +40,7 @@ const App =  () => {
         Please confirm your birth year. This data will not be stored 
         </label>
 
-        <input type = "text" placeholder="Your birth year" className="border border-grey-300  rounded-2xl py-2 px-4 mb-4" /> 
+        <input type = "text" placeholder="Your birth year" className="border border-grey-300 outline-none rounded-2xl py-2 px-4 mb-4" /> 
         <button className="bg-red-300 hover:bg-blue-200 rounded-2xl  text-white py-2 px-4 ">Continue</button>
         </div>
       </div>
